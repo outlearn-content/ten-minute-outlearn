@@ -29,9 +29,9 @@ Of course, you might be here for a bunch of reasons.  This orientation module wi
 
 ## Learn Stuff
 
-There's a more natural way to learn than classrooms, books, video lectures and conferences.  Visit one of our topic streams ([how's about some Node.js?](https://www.outlearn.com/topic/nodejs)
+There's a more natural way to learn than classrooms, books, video lectures and conferences.  Visit one of our topic streams.  How's about some Node.js](https://www.outlearn.com/topic/nodejs)?
 
-Outlearn learning paths are built out of modules, which might be links to other resources or full-fledged content articles.  For example, check out [this sweet path](https://www.outlearn.com/learn/FaisalAbid/node-path)
+Outlearn learning paths are built out of modules, which might be links to other resources or full-fledged content articles.  For example, check out [this sweet path](https://www.outlearn.com/learn/FaisalAbid/node-path).
 
 <!-- @task, "text" : "Browse a path, read a couple sections, and check off your progress." -->
 
@@ -49,17 +49,17 @@ Learning is great, but honestly, there are a lot of ways to find the same conten
 
 Since you found Outlern, chances are you are "that dev" on your team who finds all sorts of great resources.  You know that every popular technology you need to learn already has dozens of blog posts and tutorials around the web explaining how it works.  If only everyone at your company were to read and understand them!
 
-Here's the trick: _someone_ has to pick them out, settle on the order, and provide some local context ("why is this important?").  **Outlearn makes all that cake.**
+Here's the trick: _someone_ has to pick them out, settle on the order, and provide some local context (i.e. "why is this useful to us?").  **Outlearn makes all that easy as cake.** (`assert(!cake.is_a?(Lie))`)
 
 <!-- @task, "hasDeliverable" : true, "text" : "What's one topic you wish you could snap your fingers and teach your dev team?" -->
 
-We want to make you the hero that organizes all that useful material.  A happy team makes for a happy _you_.
+We want to make you the hero that organizes all that useful material.  `happy team == happy you`
 
 <!-- @task, "text" : "Launch the Outlearn Pathbuilder to edit this path." -->
 
 ![Edit Path](https://raw.githubusercontent.com/outlearn-content/ten-minute-outlearn/master/edit-path-button.png "Start Editing a Path")
 
-Go check out [My Content](/my-content), find this path, and start editing it.
+Go check out [My Content](/my-content), find your default 'Learn Later' path, and start editing it.
 
 ### Reuse great catalog modules
 
@@ -116,6 +116,10 @@ Just say yes.  You know you want to...
 If you are an author, a blogger, a documentation writer, or just a dev who's sick of answering the same questions for every damn new hire, you'll love our native authoring experience.
 
 [Connect to GitHub](/settings) and learn more about [Outlearn Packages (OLP)](https://www.outlearn.com/learn/outlearn/outlearn-publishing).
+
+While the web has some great blog posts and screencasts on almost everything, we strongly believe that interactive, creative problem solving is the best way to learn.
+
+If you have ideas on a better way for learners to understand, master, and get hands-on with a topic of your expertise, let's talk.  If you are frustrated by the lack of high-quality training in a particular area, let's talk.  We've got a lot of ideas in the pipeline to improve the learning experience with the help of great authors like you...
 
 <!-- @section -->
 
