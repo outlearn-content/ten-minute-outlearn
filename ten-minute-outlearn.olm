@@ -37,11 +37,11 @@ Outlearn learning paths are built out of modules, which might be links to other 
 
 Our expert curators are gathering the web’s best resources on many of the latest tech trends, with more coming soon.
 
-If you are just here to learn and stay current, you should definitely subscribe to a newsletter where we'll send you a totally non-spammy (ugh) weekly summary of the best stuff.
+If you are just here to learn and stay current, you should definitely subscribe to a newsletter where we'll send you a totally non-spammy dev-friendly weekly summary of the best stuff.
 
 <!-- @task, "text" : "Subscribe to a topic newsletter for an area that interests you." -->
 
-Learning is great, but honestly, there are a lot of ways to find the same content on the interwebs.  The power of Outlearn comes when you get in on the action.
+Learning is great, but honestly, there are a lot of ways to find the same content on the interwebs.  The power of Outlearn comes when you get in on the action.  Read on to find out how easy it is.
 
 <!-- @section -->
 
@@ -49,11 +49,11 @@ Learning is great, but honestly, there are a lot of ways to find the same conten
 
 Since you found Outlern, chances are you are "that dev" on your team who finds all sorts of great resources.  You know that every popular technology you need to learn already has dozens of blog posts and tutorials around the web explaining how it works.  If only everyone at your company were to read and understand them!
 
-<!-- @task, "hasDeliverable" : true, "text" : "What's one topic you wish you could snap your fingers and teach your dev team?" -->
-
 Here's the trick: _someone_ has to pick them out, settle on the order, and provide some local context ("why is this important?").  **Outlearn makes all that cake.**
 
-We want to make you the hero that organizes all that useful stuff.  A happy team makes for a happy _you_.
+<!-- @task, "hasDeliverable" : true, "text" : "What's one topic you wish you could snap your fingers and teach your dev team?" -->
+
+We want to make you the hero that organizes all that useful material.  A happy team makes for a happy _you_.
 
 <!-- @task, "text" : "Launch the Outlearn Pathbuilder to edit this path." -->
 
@@ -71,14 +71,14 @@ In addition to direct searches, you can add modules from wherever you find them 
 
 <!-- @task, "text" : "Browse the homepage, and try adding a module using the (+) button." -->
 
-Our catalog is always growing and always high-quality.  [Tell us](http://discuss.outlearn.com/) about other stuff you'd like to see natively available in our catalog.
+Our catalog is always growing and always high-quality.  [Tell us](http://discuss.outlearn.com/) about other topics you'd like to see natively available in our catalog.
 
 ### Add external links
 
 Of course, Outlearn's catalog is just a way to kick start your path.  You can add anything with a link.  
 <!-- @task, "text" : "Find a relevant link and paste it into the search field to add to your path." -->
 
-And great stuff you surface on your own might end up in the catalog (and get you credit for finding it!)
+And great links you surface on your own might end up in the catalog (and get you credit for finding it!)
 
 ### Include internal resources
 
