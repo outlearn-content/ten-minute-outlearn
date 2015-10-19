@@ -49,7 +49,7 @@ Learning is great, but honestly, there are a lot of ways to find the same conten
 
 Since you found Outlern, chances are you are "that dev" on your team who finds all sorts of great resources.  You know that every popular technology you need to learn already has dozens of blog posts and tutorials around the web explaining how it works.  If only everyone at your company were to read and understand them!
 
-Here's the trick: _someone_ has to pick them out, settle on the order, and provide some local context (i.e. "why is this useful to us?").  **Outlearn makes all that easy as cake.** (`assert(!cake.is_a?(Lie))`)
+Here's the trick: _someone_ has to pick them out, settle on the order, and provide some local context, i.e. "why is this useful to us?"  **Outlearn makes all that easy as cake.** (`assert(!cake.is_a?(Lie))`)
 
 <!-- @task, "hasDeliverable" : true, "text" : "What's one topic you wish you could snap your fingers and teach your dev team?" -->
 
@@ -90,7 +90,7 @@ Once you've spent all those many (five) minutes putting useful resources togethe
 
 <!-- @task, "text" : "Publish a path and share the link." -->
 
-**Note:** You can check off the above task without actually doing it.  We know.  We prefer self-guided learning, and don't like computers trying to police us into tasks.  Don't want to share a path yet?  Fine.  Just check off the task anyway.  Or don't.  It's all good.
+**Note:** You can check off the above task without actually doing it.  Yes, we know.  We prefer self-guided learning, and don't like computers trying to police us into tasks.  Don't want to share a path yet?  Fine.  Just check off the task anyway.  Or don't.  We're not going to fire you for learning your own way.  It's all good.
 
 
 <!-- @section -->
