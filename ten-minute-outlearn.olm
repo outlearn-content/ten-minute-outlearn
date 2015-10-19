@@ -4,7 +4,6 @@
 "version" : "1.0",
 "title" : "Outlearn in Ten Minutes or Less",
 "description": "Get the most from Outlearn, the super flexible publishing platform for professional developer learning content.",
-"homepage" : "https://www.outlearn.com/",
 "freshnessDate" : 2015-10-20,
 "author" : "Will Koffel",
 "organization" : "Outlearn"
@@ -15,15 +14,15 @@
 
 ## Get Oriented
 
-Welcom to Outlearn!  We're here because we believe in a [better way](https://medium.com/@outlearn/professional-developer-learning-manifesto-afd4f8bf7c96) for developers and dev teams to learn.
+Welcome to Outlearn, where we believe in a [better way](https://medium.com/@outlearn/professional-developer-learning-manifesto-afd4f8bf7c96) for developers and dev teams to learn.
 
-Of course, you might be here for a bunch of reasons.  This orientation module will give you a quick flavor of what's up with Outlearn so you can make the best of your time here.
+You might be here for a bunch of reasons, or you just got seriously lost on the internet.  No matter, this orientation module will give you a quick flavor of what's up with Outlearn so you can make the best of your time here.
 
 **tl;dr**
 
-  - Learn stuff, because learning
-  - Assemble paths, because team adoration
-  - Author content, because power
+  - Learn stuff, because you are a learning machine
+  - Assemble paths, sharing with your team the best stuff from our curated catalog and across the web
+  - Author content, using Markdown and GitHub to publish your own great training, like a boss
 
 <!-- @section -->
 
@@ -39,6 +38,9 @@ Our expert curators are gathering the web’s best resources on many of the late
 
 If you are just here to learn and stay current, you should definitely subscribe to a newsletter where we'll send you a totally non-spammy dev-friendly weekly summary of the best stuff.
 
+![Subscribe](https://raw.githubusercontent.com/outlearn-content/ten-minute-outlearn/master/subscribe.png "Subscribe to a Topic Newsletter")
+
+
 <!-- @task, "text" : "Subscribe to a topic newsletter for an area that interests you." -->
 
 Learning is great, but honestly, there are a lot of ways to find the same content on the interwebs.  The power of Outlearn comes when you get in on the action.  Read on to find out how easy it is.
@@ -47,7 +49,7 @@ Learning is great, but honestly, there are a lot of ways to find the same conten
 
 ## Assemble Paths
 
-Since you found Outlern, chances are you are "that dev" on your team who finds all sorts of great resources.  You know that every popular technology you need to learn already has dozens of blog posts and tutorials around the web explaining how it works.  If only everyone at your company were to read and understand them!
+Since you found Outlearn, chances are you are "that dev" on your team who finds all sorts of great resources.  You know that every popular technology you need to learn already has dozens of blog posts and tutorials around the web explaining how it works.  If only you could get everyone at your company to read and understand them!
 
 Here's the trick: _someone_ has to pick them out, settle on the order, and provide some local context, i.e. "why is this useful to us?"  **Outlearn makes all that easy as cake.** (`assert(!cake.is_a?(Lie))`)
 
@@ -67,16 +69,22 @@ Now that you’re in the Pathbuilder, adding more learning is easy.  Just click 
 
 <!-- @task, "text" : "Add a search result to your path." -->
 
-In addition to direct searches, you can add modules from wherever you find them around Outlearn, like right from [the homepage](/)
+In addition to direct searches, you can add modules when browsing them in Outlearn.
 
-<!-- @task, "text" : "Browse the homepage, and try adding a module using the (+) button." -->
+![Add to Path](https://raw.githubusercontent.com/outlearn-content/ten-minute-outlearn/master/add-to-path.png "Add to a Path")
+
+<!-- @task, "text" : "Find a module, and try adding it to your path using the (+) button." -->
 
 Our catalog is always growing and always high-quality.  [Tell us](http://discuss.outlearn.com/) about other topics you'd like to see natively available in our catalog.
 
 ### Add external links
 
 Of course, Outlearn's catalog is just a way to kick start your path.  You can add anything with a link.  
-<!-- @task, "text" : "Find a relevant link and paste it into the search field to add to your path." -->
+
+![Add a Link](https://raw.githubusercontent.com/outlearn-content/ten-minute-outlearn/master/search-pathbuilder.png "Pathbuilder Entry")
+
+
+<!-- @task, "text" : "Find a relevant link and paste it into the Pathbuilder search field to add to your path." -->
 
 And great links you surface on your own might end up in the catalog (and get you credit for finding it!)
 
@@ -117,9 +125,13 @@ If you are an author, a blogger, a documentation writer, or just a dev who's sic
 
 [Connect to GitHub](/settings) and learn more about [Outlearn Packages (OLP)](https://www.outlearn.com/learn/outlearn/outlearn-publishing).
 
-While the web has some great blog posts and screencasts on almost everything, we strongly believe that interactive, creative problem solving is the best way to learn.
+### Innovative Authors Wanted
 
-If you have ideas on a better way for learners to understand, master, and get hands-on with a topic of your expertise, let's talk.  If you are frustrated by the lack of high-quality training in a particular area, let's talk.  We've got a lot of ideas in the pipeline to improve the learning experience with the help of great authors like you...
+At Outlearn, we are passionate about enabling the very best possible learning.  We think it starts with taking better advantage of the materials already available.  But there's so much more we can do with the help of innovative authors.
+
+How many tutorials have you read that say 'go write this code, get this result, run this command, get that result'?  You follow along, doing exactly as it tells you, getting exactly the same results, and figuring out nothing on your own!  That kind of content is certainly ubiquitous and easy to write, but way better is the kind that challenges and really gets you thinking.  The best learning presents a problem, forces ideas, tinkering, trial, error, and ultimately a satisfying solution.  
+
+If that resonates with you, [get in touch](mailto:info@outlearn.com).  We're most interested in featuring content that makes great use of creative problem solving, and we've got a lot of ideas in the pipeline to make it easy for you to create that sort of content.
 
 <!-- @section -->
 
@@ -137,8 +149,10 @@ As the Outlearn developer community grows, expect to see a lot more opportunitie
 
 ## Let's Talk
 
-Your feedback means everything.  Outlearn is predicated on the idea that learning isn't an academic ivory-tower discipline, and especially not for professional developers.  _Ain't nobody got time for that._
+Your feedback means everything.  Outlearn is predicated on the idea that learning isn't an academic ivory-tower discipline, and that's especially true for professional developers.  _Ain't nobody got time for that._
+
+Let's discuss better dev learning together and figure out how to fix it at [discuss.outlearn.com](http://discuss.outlearn.com/sso)
 
 <!-- @task, "text" : "Post some info on how you go about learning new tech in our discussion thread." -->
 
-Let's discuss better dev learning together and figure out how to fix it at [discuss.outlearn.com](http://discuss.outlearn.com/sso)
+Thanks for learning with us.  We can't wait to see how you decide to use Outlearn.
