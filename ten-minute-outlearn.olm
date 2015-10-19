@@ -28,7 +28,7 @@ You might be here for a bunch of reasons, or you just got seriously lost on the 
 
 ## Learn Stuff
 
-There's a more natural way to learn than classrooms, books, video lectures and conferences.  Visit one of our topic streams.  [How's about some Node.js](https://www.outlearn.com/topic/nodejs)?
+There's a more natural way to learn than classrooms, books, video lectures and conferences.  Visit one of our topic streams.  [How about some love for Node.js](https://www.outlearn.com/topic/nodejs)?
 
 Outlearn learning paths are built out of modules, which might be links to other resources or full-fledged content articles.  For example, check out [this sweet path](https://www.outlearn.com/learn/FaisalAbid/node-path).
 
@@ -59,11 +59,11 @@ We want to make you the hero that organizes all that useful material.
 
 ```happy team == happy you```
 
-<!-- @task, "text" : "Launch the Outlearn Pathbuilder to edit this path." -->
-
 To start, go check out [My Content](/my-content), find your default 'Learn Later' path, and start editing it.
 
 ![Edit Path](https://raw.githubusercontent.com/outlearn-content/ten-minute-outlearn/master/edit-path-button.png "Start Editing a Path")
+
+<!-- @task, "text" : "Launch the Outlearn Pathbuilder to edit this path." -->
 
 ### Reuse great catalog modules
 
