@@ -2,7 +2,7 @@
 {
 "name" : "outlearn-orientation",
 "version" : "1.0",
-"title" : "Outlearn in Ten Minutes or Less",
+"title" : "Outlearn in Ten Minutes",
 "description": "Get the most from Outlearn, the super flexible publishing platform for professional developer learning content.",
 "freshnessDate" : 2015-10-20,
 "author" : "Outlearn",
@@ -116,7 +116,7 @@ Do you have lots of internal team content in Markdown that's currently dying a s
 Ready to check out native authoring to turn your Markdown into powerful elegant learning?
 
 - [X] Yeah, sounds awesome.
-- [ ] No thanks, I'm not ready for my head to explode quite yet.
+- [ ] No thanks, I'm not ready for my head to explode.
 - [ ] One horse-sized duck, of course!
 
 Just say yes.  You know you want to...
