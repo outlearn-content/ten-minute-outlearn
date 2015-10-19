@@ -57,7 +57,7 @@ We want to make you the hero that organizes all that useful material.  A happy t
 
 <!-- @task, "text" : "Launch the Outlearn Pathbuilder to edit this path." -->
 
-![Edit Path](/edit-path.png "Start Editing a Path")
+![Edit Path](https://raw.githubusercontent.com/outlearn-content/ten-minute-outlearn/master/edit-path-button.png "Start Editing a Path")
 
 Go check out [My Content](/my-content), find this path, and start editing it.
 
@@ -84,6 +84,15 @@ And great links you surface on your own might end up in the catalog (and get you
 
 We believe a lot that real learning happens in the context of your team and organization.  You can add internal-only links to your path as well.  If we can't automatically grab a title, description, and screenshot for your link, you can always add custom ones so your internal modules still look great for your learners.
 
+### Publish a path
+
+Once you've spent all those many (five) minutes putting useful resources together, share it with the world and your team.
+
+<!-- @task, "text" : "Publish a path and share the link." -->
+
+**Note:** You can check off the above task without actually doing it.  We know.  We prefer self-guided learning, and don't like computers trying to police us into tasks.  Don't want to share a path yet?  Fine.  Just check off the task anyway.  Or don't.  It's all good.
+
+
 <!-- @section -->
 
 ## Author Content
@@ -104,7 +113,7 @@ Just say yes.  You know you want to...
 
 <!-- @end -->
 
-If you are an author, a blogger, a documentation writer, or just a dev who knows Markdown and wants to encourage a richer learning experience, you'll love our native authoring experience.
+If you are an author, a blogger, a documentation writer, or just a dev who's sick of answering the same questions for every damn new hire, you'll love our native authoring experience.
 
 [Connect to GitHub](/settings) and learn more about [Outlearn Packages (OLP)](https://www.outlearn.com/learn/outlearn/outlearn-publishing).
 
