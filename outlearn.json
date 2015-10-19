@@ -1,0 +1,8 @@
+{
+  "olpVersion": "0.5",
+  "modules" : [
+    {
+      "olm" : "./ten-minute-outlearn.olm"
+    }
+  ]
+}

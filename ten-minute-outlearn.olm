@@ -1,0 +1,111 @@
+<!--
+{
+"name" : "outlearn-orientation",
+"version" : "1.0",
+"title" : "Outlearn in Ten Minutes or Less",
+"description": "Get the most from Outlearn, the super flexible publishing platform for professional developer learning content.",
+"homepage" : "https://www.outlearn.com/",
+"freshnessDate" : 2015-10-20,
+"author" : "Will Koffel",
+"organization" : "Outlearn"
+}
+-->
+
+<!-- @section -->
+
+## Get Oriented
+
+Welcom to Outlearn!  We're here because we believe in a [better way](https://medium.com/@outlearn/professional-developer-learning-manifesto-afd4f8bf7c96) for developers and dev teams to learn.
+
+Of course, you might be here for a bunch of reasons.  This orientation module will give you a quick flavor of what's up with Outlearn so you can make the best of your time here.
+
+**tl;dr**
+
+  - Learn stuff, because learning
+  - Assemble paths, because team adoration
+  - Author content, because power
+
+<!-- @section -->
+
+## Learn Stuff
+
+There's a more natural way to learn than classrooms, books, video lectures and conferences.  Visit one of our [topic stream](https://www.outlearn.com/topic/nodejs)
+
+<!-- @section -->
+
+## Assemble Paths
+
+Since you found Outlern, chances are you are "that dev" on your team who finds all sorts of great resources.  You know that every popular technology you need to learn already has dozens of blog posts and tutorials around the web explaining how it works.  If only everyone at your company were to read and understand them!
+
+<!-- @task, "hasDeliverable" : true, "text" : "What's one topic you wish you could snap your fingers and teach your dev team?" -->
+
+Here's the trick: _someone_ has to pick them out, settle on the order, and provide some local context ("why is this important?").  **Outlearn makes all that cake.**
+
+We want to make you the hero that organizes all that useful stuff.  A happy team makes for a happy _you_.
+
+<!-- @task, "text" : "Launch the Outlearn Pathbuilder to edit this path." -->
+
+![Edit Path](/edit-path.png "Start Editing a Path")
+
+Go check out [My Content](/my-content), find this path, and start editing it.
+
+### Reuse great catalog modules
+
+Now that you’re in the Pathbuilder, adding more learning is easy.  Just click the (+) button on the lower left, and search for a module on the subject you’re interested in.  The first results we show you come from the Outlearn catalog.  Our expert curators are gathering the web’s best resources on many of the latest tech trends.  You’ll see those results first, followed by other web results we think might be helpful.
+
+### Add external links
+
+Of course, Outlearn's catalog is just a way to kick start your path.  You can add anything with a link.  
+<!-- @task, "text" : "Find a relevant link and paste it into the search field to add to your path." -->
+
+And great stuff you surface on your own might end up in the catalog (and get you credit for finding it!)
+
+### Include internal resources
+
+We believe a lot that real learning happens in the context of your team and organization.  You can add internal-only links to your path as well.  If we can't automatically grab a title, description, and screenshot for your link, you can always add custom ones so your internal modules still look great for your learners.
+
+<!-- @section -->
+
+## Author Content
+
+Want to make even cooler modules with rich text and interactive features (like this one you are learning now) ?
+
+Do you have lots of internal team content in Markdown that's currently dying a slow death in your wiki?  Keep reading.
+
+<!-- @multipleChoice -->
+
+Ready to check out native authoring to turn your Markdown into powerful elegant learning?
+
+- [X] Yeah, sounds awesome.
+- [ ] No thanks, I'm not ready for my head to explode quite yet.
+- [ ] One horse-sized duck, of course!
+
+Just say yes.  You know you want to...
+
+<!-- @end -->
+
+If you are an author, a blogger, a documentation writer, or just a dev who knows Markdown and wants to encourage a richer learning experience, you'll love our native authoring experience.
+
+[Connect to GitHub](/settings) and learn more about [Outlearn Packages (OLP)](https://www.outlearn.com/learn/outlearn/outlearn-publishing).
+
+<!-- @section -->
+
+## Get Known
+
+While you are on a roll, go update your profile.  Don't be such a stranger.  Be sure to include other places you can be found online, might as well get some SEO juice while you are here, right?
+
+<!-- @task, "text" : "Add a photo to your profile." -->
+
+<!-- @task, "text" : "Add Twitter, Homepage, or other links to your profile." -->
+
+As the Outlearn developer community grows, expect to see a lot more opportunities to show off your profile and get traction on content you contribute.
+
+<!-- @section -->
+
+## Let's Talk
+
+Your feedback means everything.  Outlearn is predicated on the idea that learning isn't an academic ivory-tower discipline, and especially not for professional developers.  _Ain't nobody got time for that._
+
+<!-- @task, "text" : "Post some info on how you go about learning new tech in our discussion thread." -->
+
+Let's discuss better dev learning together and figure out how to fix it at [discuss.outlearn.com](http://discuss.outlearn.com/sso)
