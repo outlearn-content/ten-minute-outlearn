@@ -14,15 +14,15 @@
 
 ## Get Oriented
 
-Welcome to Outlearn, where we believe in a [better way](https://medium.com/@outlearn/professional-developer-learning-manifesto-afd4f8bf7c96) for developers and dev teams to learn.
+Welcome to Outlearn, where we believe in a [better way](https://blog.outlearn.com/professional-developer-learning-manifesto-afd4f8bf7c96) for developers and dev teams to learn.
 
-You might be here for a bunch of reasons, or you just got seriously lost on the internet.  No matter, this orientation module will give you a quick flavor of what's up with Outlearn so you can make the best of your time here.
+You might be here for a bunch of reasons, or you just got seriously lost on the internet.  No matter, this orientation module will give you a quick flavor of what's up with Outlearn so you can make the most of your time here.
 
 **tl;dr**
 
-  - Learn stuff, because you are a learning machine
-  - Build paths, share knowledge with your team and the world by curating and writing content in our beautiful path builder tool
-  - Author content, using Markdown and GitHub, you can publish your own great training, like a boss
+  - Learn stuff -- because you are a learning machine
+  - Build paths -- share knowledge with your team and the world by curating and writing content in our beautiful path builder tool
+  - Author content -- using Markdown and GitHub, you can publish your own great training, like a boss
 
 <!-- @section -->
 
@@ -71,12 +71,15 @@ Now that you’re in the Pathbuilder, adding more learning is easy.  Just click 
 
 <!-- @task, "text" : "Add a page to your path." -->
 
-The Pathbuilder can also be used to add simple text pages.  Try adding pages that provide a narrative.  Guide your audience through the learning resources.  Think of this as "that stuff I'd say over the shoulder of my colleage while he's reading to help provide context".
+The Pathbuilder can also be used to add all kinds of pages.  Most of it is self-explanatory.
+
+Be sure to try "simple text pages".  They provide a narrative for your audience, helping to guide readers through the learning resources.  Think of this as "that stuff I'd say over the shoulder of my colleague while he's reading to help provide context".
 
 ### Rich Learning Modules
 
+Now, if you are interested in creating **super pro happy fun learning**, look no further than the "Custom Rich Learning Page" type.  Go ahead and try it out.  You'll see more below in the Authoring section, but it's not to be missed.
 
-
+_Spoiler_: it lets you use our enhanced Markdown format to easily author full learning experiences like the one you are reading now.
 
 ### Reuse great catalog modules
 
@@ -87,21 +90,6 @@ Notice that you can also add content from our catalog, either directly from the 
 <!-- @task, "text" : "Find a module, and try adding it to your path using the (+) button." -->
 
 Our catalog is always growing and always high-quality.  [Tell us](https://www.outlearn.com/contact) about other topics valuable to you and your team that you'd like to see natively available in our catalog.
-
-### Add external links
-
-Of course, Outlearn's catalog is just a way to kick start your path.  You can add anything with a link.  
-
-![Add a Link](https://raw.githubusercontent.com/outlearn-content/ten-minute-outlearn/master/search-pathbuilder.png "Pathbuilder Entry")
-
-
-<!-- @task, "text" : "Find a relevant link and paste it into the Pathbuilder search field to add to your path." -->
-
-And great links you surface on your own might end up in the catalog (and get you credit for finding it!)
-
-### Include internal resources
-
-We believe a lot that real learning happens in the context of your team and organization.  You can add internal-only links to your path as well.  If we can't automatically grab a title, description, and screenshot for your link, you can always add custom ones so your internal modules still look great for your learners.
 
 ### Publish a path
 
@@ -136,7 +124,7 @@ If you are an author, a blogger, a documentation writer, or just a dev who's sic
 
 [Connect to GitHub](/settings) and learn more about [Outlearn Packages (OLP)](https://www.outlearn.com/learn/outlearn/outlearn-publishing).
 
-### Do it right now in Pathbuilder!
+### Or do it right now in Pathbuilder!
 
 You can definitely follow the path above to learn about Outlearn's ncie native Github integration.
 
