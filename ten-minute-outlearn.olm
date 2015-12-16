@@ -4,7 +4,7 @@
 "version" : "1.0",
 "title" : "Outlearn in Ten Minutes",
 "description": "Get the most from Outlearn, the super flexible publishing platform for professional developer learning content.",
-"freshnessDate" : 2015-10-20,
+"freshnessDate" : 2015-12-16,
 "author" : "Outlearn",
 "organization" : "Outlearn"
 }
@@ -21,8 +21,8 @@ You might be here for a bunch of reasons, or you just got seriously lost on the 
 **tl;dr**
 
   - Learn stuff, because you are a learning machine
-  - Assemble paths, sharing with your team the best resources from our curated catalog and across the web
-  - Author content, using Markdown and GitHub to publish your own great training, like a boss
+  - Build paths, share knowledge with your team and the world by curating and writing content in our beautiful path builder tool
+  - Author content, using Markdown and GitHub, you can publish your own great training, like a boss
 
 <!-- @section -->
 
@@ -40,14 +40,13 @@ If you are just here to learn and stay current, you should definitely [subscribe
 
 ![Subscribe](https://raw.githubusercontent.com/outlearn-content/ten-minute-outlearn/master/subscribe.png "Subscribe to a Topic Newsletter")
 
-
 <!-- @task, "text" : "Subscribe to a topic newsletter for an area that interests you." -->
 
 Learning is great, but honestly, there are a lot of ways to find the same content on the interwebs.  The power of Outlearn comes when you get in on the action.  Read on to find out how easy it is.
 
 <!-- @section -->
 
-## Assemble Paths
+## Build Paths
 
 Since you found Outlearn, chances are you are "that dev" on your team who finds all sorts of great resources.  You know that every popular technology you need to learn already has dozens of blog posts and tutorials around the web explaining how it works.  If only you could get everyone at your company to read and understand them!
 
@@ -57,27 +56,37 @@ Here's the trick: _someone_ has to pick them out, settle on the order, and provi
 
 We want to make you the hero that organizes all that useful material.  
 
-```happy team == happy you```
+```happy team == happy you
+```
 
-To start, go check out [My Content](/my-content), find your default 'Learn Later' path, and start editing it.
+To start, go check out [My Content](/my-content), find your default 'My First Path' path, and start editing it.
 
 ![Edit Path](https://raw.githubusercontent.com/outlearn-content/ten-minute-outlearn/master/edit-path-button.png "Start Editing a Path")
 
-<!-- @task, "text" : "Launch the Outlearn Pathbuilder to edit this path." -->
+<!-- @task, "text" : "Launch the Outlearn Pathbuilder to edit a path." -->
+
+### Add Pages
+
+Now that you’re in the Pathbuilder, adding more learning is easy.  Just click the _"Add Another Page"_ button on left.  You can add from a variety of sources, including from any URL across the web.
+
+<!-- @task, "text" : "Add a page to your path." -->
+
+The Pathbuilder can also be used to add simple text pages.  Try adding pages that provide a narrative.  Guide your audience through the learning resources.  Think of this as "that stuff I'd say over the shoulder of my colleage while he's reading to help provide context".
+
+### Rich Learning Modules
+
+
+
 
 ### Reuse great catalog modules
 
-Now that you’re in the Pathbuilder, adding more learning is easy.  Just click the (+) button on the lower left, and search for a module on the subject you’re interested in.  The first results we show you come from the Outlearn catalog. You’ll see those results first, followed by other web results we think might be helpful.
-
-<!-- @task, "text" : "Add a search result to your path." -->
-
-In addition to direct searches, you can add modules when browsing them in Outlearn.
+Notice that you can also add content from our catalog, either directly from the Pathbuilder, or when browsing around Outlearn.
 
 ![Add to Path](https://raw.githubusercontent.com/outlearn-content/ten-minute-outlearn/master/add-to-path.png "Add to a Path")
 
 <!-- @task, "text" : "Find a module, and try adding it to your path using the (+) button." -->
 
-Our catalog is always growing and always high-quality.  [Tell us](https://www.outlearn.com/contact) about other topics you'd like to see natively available in our catalog.
+Our catalog is always growing and always high-quality.  [Tell us](https://www.outlearn.com/contact) about other topics valuable to you and your team that you'd like to see natively available in our catalog.
 
 ### Add external links
 
@@ -126,6 +135,14 @@ Just say yes.  You know you want to...
 If you are an author, a blogger, a documentation writer, or just a dev who's sick of answering the same questions for every damn new hire, you'll love our native authoring experience.
 
 [Connect to GitHub](/settings) and learn more about [Outlearn Packages (OLP)](https://www.outlearn.com/learn/outlearn/outlearn-publishing).
+
+### Do it right now in Pathbuilder!
+
+You can definitely follow the path above to learn about Outlearn's ncie native Github integration.
+
+But you probably already noticed you can author a "Custom Rich Learning Page" in the Pathbuilder.  That's just a nice web-based interface to help you author our Markdown-based format.
+
+<!-- @task, "text" : "Skip the docs, and just go give it a try in Pathbuilder!" -->
 
 ### Innovative Authors Wanted
 
